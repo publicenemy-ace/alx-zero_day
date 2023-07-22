@@ -1,2 +1,1 @@
- My first readme 
-Updated readme
+happy to be admitted to alx
